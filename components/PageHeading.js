@@ -9,7 +9,7 @@ const PageHeading = (props)=>{
 
 const styles = StyleSheet.create({
     heading: {
-        fontSize:28,
+        fontSize:16,
         fontWeight: 600,
         textAlign:'center',
         marginBottom:20
